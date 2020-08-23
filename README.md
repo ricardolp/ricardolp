@@ -7,4 +7,4 @@ I am Ricardo Pinheiro.
 
 - 🚀 I’m currently working at **FH Consulting**.
 - 💻 SAP Consulting
-- 👨 Javascript Fullstack developer
+- 👨 Javascript Full Stack developer
