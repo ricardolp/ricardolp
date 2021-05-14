@@ -5,7 +5,7 @@
 ## Hello, everyone 👋
 I am Ricardo Pinheiro.
 
-- 🚀 I’m currently working at **FH Consulting**.
+- 🚀 I’m currently working at **NTT DATA Business Solutions**.
 - 💻 SAP Consulting
 - 🌱 Currently learning everything 🤣
 - 👨 Javascript Full Stack developer
