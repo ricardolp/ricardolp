@@ -5,10 +5,9 @@
 ## Hello, everyone 👋
 I am Ricardo Pinheiro.
 
-- 🚀 I’m currently working at **NTT DATA Business Solutions**.
-- 💻 SAP Consulting | ABAP
+- 💻 Working with SAP Integration
 - 🌱 Currently learning everything 🤣
-- 👨 Javascript Full Stack developer
+- 👨 Full Stack developer
 
 ### Languages and Tools:
 
