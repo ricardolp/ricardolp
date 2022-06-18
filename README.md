@@ -5,7 +5,7 @@
 ## Hello, everyone 👋
 I am Ricardo Pinheiro.
 
-- 💻 Working with SAP Integration
+- 💻 Working with SAP
 - 🌱 Currently learning everything 🤣
 - 👨 Full Stack developer
 
